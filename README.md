@@ -2,7 +2,7 @@
 wichan wichayanuparp 6651 (bright)
 1. **ขั้นตอนที่ 1: โคลนโปรเจกต์จาก GitHub** :
    ```bash
-   git clone -b LAB2 https://github.com/<your-org>/FRA502-LAB-StudentID.git
+   git clone -b https://github.com/Wichanbright/FRA502-LAB-6651.git
     ```
 2. **ขั้นตอนที่ 2: เข้าสู่ไดเร็กทอรีโปรเจกต์ :
    ```bash
