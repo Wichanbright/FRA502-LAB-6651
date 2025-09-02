@@ -1,6 +1,0 @@
-Invoking command in '/home/dragon/FRA502-LAB-66340500051/build/lab2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/dragon/FRA502-LAB-66340500051/src/lab2 -DCMAKE_INSTALL_PREFIX=/home/dragon/FRA502-LAB-66340500051/install/lab2
-Invoked command in '/home/dragon/FRA502-LAB-66340500051/build/lab2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/dragon/FRA502-LAB-66340500051/src/lab2 -DCMAKE_INSTALL_PREFIX=/home/dragon/FRA502-LAB-66340500051/install/lab2
-Invoking command in '/home/dragon/FRA502-LAB-66340500051/build/lab2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dragon/FRA502-LAB-66340500051/build/lab2 -- -j4 -l4
-Invoked command in '/home/dragon/FRA502-LAB-66340500051/build/lab2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dragon/FRA502-LAB-66340500051/build/lab2 -- -j4 -l4
-Invoking command in '/home/dragon/FRA502-LAB-66340500051/build/lab2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dragon/FRA502-LAB-66340500051/build/lab2
-Invoked command in '/home/dragon/FRA502-LAB-66340500051/build/lab2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dragon/FRA502-LAB-66340500051/build/lab2
