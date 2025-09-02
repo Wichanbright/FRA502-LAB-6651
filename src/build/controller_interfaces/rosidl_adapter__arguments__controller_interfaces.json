@@ -1,0 +1,7 @@
+{
+  "package_name": "controller_interfaces",
+  "non_idl_tuples": [
+    "/home/dragon/FRA502-LAB-66340500051/src/controller_interfaces:srv/SetMaxPizza.srv",
+    "/home/dragon/FRA502-LAB-66340500051/src/controller_interfaces:srv/SetParam.srv"
+  ]
+}

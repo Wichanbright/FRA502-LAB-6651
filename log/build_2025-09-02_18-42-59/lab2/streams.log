@@ -1,0 +1,46 @@
+[0.022s] Invoking command in '/home/dragon/FRA502-LAB-66340500051/build/lab2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dragon/FRA502-LAB-66340500051/build/lab2 -- -j4 -l4
+[0.099s] [  0%] Built target ament_cmake_python_copy_lab2
+[0.115s] [100%] Built target cpp_node_test
+[0.474s] running egg_info
+[0.475s] writing lab2.egg-info/PKG-INFO
+[0.476s] writing dependency_links to lab2.egg-info/dependency_links.txt
+[0.476s] writing top-level names to lab2.egg-info/top_level.txt
+[0.478s] reading manifest file 'lab2.egg-info/SOURCES.txt'
+[0.481s] writing manifest file 'lab2.egg-info/SOURCES.txt'
+[0.515s] [100%] Built target ament_cmake_python_build_lab2_egg
+[0.539s] Invoked command in '/home/dragon/FRA502-LAB-66340500051/build/lab2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/dragon/FRA502-LAB-66340500051/build/lab2 -- -j4 -l4
+[0.539s] Invoking command in '/home/dragon/FRA502-LAB-66340500051/build/lab2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dragon/FRA502-LAB-66340500051/build/lab2
+[0.547s] -- Install configuration: ""
+[0.547s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/environment/pythonpath.sh
+[0.547s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/environment/pythonpath.dsv
+[0.547s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2-0.0.0-py3.10.egg-info
+[0.547s] -- Installing: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2-0.0.0-py3.10.egg-info/PKG-INFO
+[0.547s] -- Installing: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2-0.0.0-py3.10.egg-info/top_level.txt
+[0.548s] -- Installing: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.549s] -- Installing: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.549s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2
+[0.549s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2/dummy_module.py
+[0.549s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2/__init__.py
+[0.593s] Listing '/home/dragon/FRA502-LAB-66340500051/install/lab2/local/lib/python3.10/dist-packages/lab2'...
+[0.601s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/lib/lab2/dummy_script.py
+[0.601s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/lib/lab2/eater.py
+[0.602s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/lib/lab2/killer.py
+[0.602s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/lib/lab2/turtlesim_pose.py
+[0.602s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/lib/lab2/cpp_node_test
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/ament_index/resource_index/package_run_dependencies/lab2
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/ament_index/resource_index/parent_prefix_path/lab2
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/environment/ament_prefix_path.sh
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/environment/ament_prefix_path.dsv
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/environment/path.sh
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/environment/path.dsv
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/local_setup.bash
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/local_setup.sh
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/local_setup.zsh
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/local_setup.dsv
+[0.603s] -- Installing: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/package.dsv
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/ament_index/resource_index/packages/lab2
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/cmake/lab2Config.cmake
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/cmake/lab2Config-version.cmake
+[0.603s] -- Up-to-date: /home/dragon/FRA502-LAB-66340500051/install/lab2/share/lab2/package.xml
+[0.626s] Invoked command in '/home/dragon/FRA502-LAB-66340500051/build/lab2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/dragon/FRA502-LAB-66340500051/build/lab2

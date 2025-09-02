@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-8349fcebe7f1bd5cb6b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "turtlesim_plus_interfaces__py",
+					"jsonFile" : "directory-turtlesim_plus_interfaces__py-22739ac8156b40a3ab5c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/dragon/FRA502-LAB-66340500051/src/build/turtlesim_plus_interfaces/turtlesim_plus_interfaces__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "turtlesim_plus_interfaces",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_turtlesim_plus_interfaces_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_turtlesim_plus_interfaces_egg-b84c938f8040b66c3946.json",
+					"name" : "ament_cmake_python_build_turtlesim_plus_interfaces_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_turtlesim_plus_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_turtlesim_plus_interfaces-73b86012053aa16f4dca.json",
+					"name" : "ament_cmake_python_copy_turtlesim_plus_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces-5d30525ca4ffe927308f.json",
+					"name" : "turtlesim_plus_interfaces",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__cpp-63a1866e0ca337b7cb07.json",
+					"name" : "turtlesim_plus_interfaces__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "turtlesim_plus_interfaces__py::@f036b16f6c97fda164bd",
+					"jsonFile" : "target-turtlesim_plus_interfaces__py-f2fdef0432f4977d7001.json",
+					"name" : "turtlesim_plus_interfaces__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_generator_c-62c6a3ba4c88f3d5f040.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_generator_py-ca5f2c7db6efbf03fa76.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_c-23cd0a6a6d9a00aa107e.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_c__pyext-0493af45146e2e5388e1.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_cpp-0ce0a2ea0c3c969e1f59.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_c-0c494f636f372874cd83.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_c__pyext-44fe7bf1dc313c778682.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_cpp-9f61eebd65a5045064ce.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_introspection_c-21b6b4a3cc8542fb41c2.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_introspection_c__pyext-121472dd58b1f61e236f.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces__rosidl_typesupport_introspection_cpp-d11abe1af5f9224d711b.json",
+					"name" : "turtlesim_plus_interfaces__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlesim_plus_interfaces_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlesim_plus_interfaces_uninstall-44c341619b3e9726ce9a.json",
+					"name" : "turtlesim_plus_interfaces_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-6af2ca45289bb033a7e0.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dragon/FRA502-LAB-66340500051/src/build/turtlesim_plus_interfaces",
+		"source" : "/home/dragon/FRA502-LAB-66340500051/src/turtlesim_plus/turtlesim_plus_interfaces"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
